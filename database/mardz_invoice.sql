@@ -93,7 +93,7 @@ CREATE TABLE `invoice_user` (
 --
 
 INSERT INTO `invoice_user` (`id`, `email`, `password`, `first_name`, `last_name`, `mobile`, `address`) VALUES
-(123456, 'margaritobalatero@gmail.com', 'MardzInvoice1954/', 'Margarito V.', 'Balatero Jr.', 9109652004, 'Branch Address:\r\nInfront Sto. Nino High School,\r\nPurok 6, Poblacion 2, Bacolod\r\nLanao Del Norte, Mindanao\r\nPhilippines\r\n\r\n');
+(123456, 'EMAIL-HERE@gmail.com', 'PASSWORD HERE', 'Margarito V.', 'Balatero Jr.', MOBILE HERE, 'Branch Address:\r\nInfront Sto. Nino High School,\r\nPurok 6, Poblacion 2, Bacolod\r\nLanao Del Norte, Mindanao\r\nPhilippines\r\n\r\n');
 
 --
 -- Indexes for dumped tables
